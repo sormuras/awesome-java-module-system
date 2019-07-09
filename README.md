@@ -9,7 +9,9 @@ A curated list of resources related to the Java Module System ([JSR 376](https:/
 - [Official Links](#official-links)
 - [Literature](#literature)
 - [Articles](#articles)
+- [Courses](#courses)
 - [Blogs](#blogs)
+- [Talks](#talks)
 
 
 ## Official Links
@@ -20,6 +22,11 @@ A curated list of resources related to the Java Module System ([JSR 376](https:/
 ## Literature
 
 - [The Java Module System](https://www.manning.com/books/the-java-module-system?a_aid=nipa&a_bid=869915cb) (Nicolai Parlog; Manning)
+- [Java 9 Modularity](https://javamodularity.com) (Sander Mak & Paul Bakker; O'Reilly)
+
+
+## Courses
+- [Java 9 Modularity: First Look](https://www.pluralsight.com/courses/java-9-modularity-first-look) (Sander Mak; Pluralsight (subscription needed)
 
 
 ## Articles
@@ -27,9 +34,11 @@ A curated list of resources related to the Java Module System ([JSR 376](https:/
 ### Basics
 
 - [Code-First Java Module System Tutorial](https://blog.codefx.org/java/java-module-system-tutorial/)
+- [Modules vs. Microservices](https://www.oreilly.com/ideas/modules-vs-microservices)
 
 ### Advanced
 
+- [Automatic-Module-Name: Calling all Java Library Maintainers](http://branchandbound.net/blog/java/2017/12/automatic-module-name/)
 - [Optional Dependencies with `requires static`](https://blog.codefx.org/java/module-system-optional-dependencies/)
 - [Implied Readability With `requires transitive`](https://blog.codefx.org/java/implied-readability/)
 - [Five Command Line Options To Hack The Java Module System](https://blog.codefx.org/java/five-command-line-options-hack-java-module-system/)
@@ -38,3 +47,9 @@ A curated list of resources related to the Java Module System ([JSR 376](https:/
 ## Blogs
 
 - [codefx.org](https://blog.codefx.org/tag/jpms/)
+
+
+## Talks
+- [Keeping Up with Java](https://www.youtube.com/watch?v=cF-rUNCOm2c) (Sander Mak; GOTO Berlin 2018)
+- [Java Modularity: the Year After](https://www.youtube.com/watch?v=l4Dk7EF-oYc) (Sander Mak; Devoxx BE 2018)
+- [Modules or Microservices?](https://www.youtube.com/watch?v=AJW2FAJGgVw) (Sander Mak; Devoxx PL 2018)
