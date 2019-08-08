@@ -40,12 +40,12 @@ A curated list of resources related to the Java Module System ([JSR 376](https:/
 
 
 ## Talks
-- [Keeping Up with Java](https://www.youtube.com/watch?v=cF-rUNCOm2c) (Sander Mak; GOTO Berlin 2018)
-- [Java Modularity: the Year After](https://www.youtube.com/watch?v=l4Dk7EF-oYc) (Sander Mak; Devoxx BE 2018)
-- [Modules or Microservices?](https://www.youtube.com/watch?v=AJW2FAJGgVw) (Sander Mak; Devoxx PL 2018)
-- [Modules in One Lesson](https://www.youtube.com/watch?v=MGX-JfMl9-Y)
-- [Modules and Services](https://www.youtube.com/watch?v=u8Hbdo-u-88)
-
+- [Keeping Up with Java](https://www.youtube.com/watch?v=cF-rUNCOm2c) Sander Mak at GOTO Berlin 2018
+- [Java Modularity: the Year After](https://www.youtube.com/watch?v=l4Dk7EF-oYc) Sander Mak at Devoxx BE 2018
+- [Modules or Microservices?](https://www.youtube.com/watch?v=AJW2FAJGgVw) - Sander Mak at Devoxx PL 2018
+- [Modules in One Lesson](https://www.youtube.com/watch?v=MGX-JfMl9-Y) - Mark Reinhold at JavaOne 2017
+- [Modules and Services](https://www.youtube.com/watch?v=u8Hbdo-u-88) - Alex Buckley at JavaOne 2016
+ 
 
 ## Literature
 - [The Java Module System](https://www.manning.com/books/the-java-module-system?a_aid=nipa&a_bid=869915cb) (Nicolai Parlog; Manning)
