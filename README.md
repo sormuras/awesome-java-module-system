@@ -35,7 +35,7 @@ A curated list of resources related to the Java Module System ([JSR 376](https:/
 
 
 ## Blogs
-- [codefx.org](https://blog.codefx.org/tag/jpms/) - tag: `jpms`
+- [nipafx.dev](https://nipafx.dev/#channels~~articles~~~tags~~j_ms) - tag: `j_ms`
 - [joda.org](https://blog.joda.org/search/label/modules) - label: `modules`
 
 
