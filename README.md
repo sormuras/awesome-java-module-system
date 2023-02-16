@@ -26,6 +26,7 @@ A curated list of resources related to the Java Module System ([JSR 376](https:/
 - [Java Modules on Maven Central](https://github.com/sormuras/modules) - Unique module names database of artifacts published on Maven Central
 - [Code-First Java Module System Tutorial](https://blog.codefx.org/java/java-module-system-tutorial/)
 - [Modules vs. Microservices](https://www.oreilly.com/ideas/modules-vs-microservices)
+- [Java Modules Cheat Sheet](https://github.com/tfesenko/Java-Modules-JPMS-CheatSheet)
 
 ### Advanced
 - [Automatic-Module-Name: Calling all Java Library Maintainers](http://branchandbound.net/blog/java/2017/12/automatic-module-name/)
