@@ -51,6 +51,7 @@ A curated list of resources related to the Java Module System ([JSR 376](https:/
 ## Literature
 - [The Java Module System](https://www.manning.com/books/the-java-module-system?a_aid=nipa&a_bid=869915cb) (Nicolai Parlog; Manning)
 - [Java 9 Modularity](https://javamodularity.com) (Sander Mak & Paul Bakker; O'Reilly)
+- [Java 9+ modularity](https://developer.ibm.com/tutorials/java-modularity-1/) (Mohamed Taman; IBM Developerworks)
 
 
 ## Courses
